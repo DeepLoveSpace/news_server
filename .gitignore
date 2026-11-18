@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Настройки VS Code (если не хочешь делить их с другими)
+.vscode/
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.log
